@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dayful-menu/static/css/main.624e9161.css",
+    "main.js": "/dayful-menu/static/js/main.e29f2f12.js",
+    "index.html": "/dayful-menu/index.html",
+    "main.624e9161.css.map": "/dayful-menu/static/css/main.624e9161.css.map",
+    "main.e29f2f12.js.map": "/dayful-menu/static/js/main.e29f2f12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624e9161.css",
+    "static/js/main.e29f2f12.js"
+  ]
+}
